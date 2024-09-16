@@ -55,9 +55,9 @@ This project was not hard to implement but I'm looking forward to more projects 
 
 ## Author
 
-- Website - [Add your name here](https://github.com/Bolazcoding)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Bolazcoding)
-- Twitter - [@yourusername](https://www.twitter.com/Saintbj12)
+- Website - [my github](https://github.com/Bolazcoding)
+- Frontend Mentor - [@myusername](https://www.frontendmentor.io/profile/Bolazcoding)
+- Twitter - [@myusername](https://www.twitter.com/Saintbj12)
 
 ## Acknowledgments
 
