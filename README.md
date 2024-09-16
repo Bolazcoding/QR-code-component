@@ -33,6 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Used OUTFITS google fonts for this project.
 - Used Media Queries.
+- Used internal stylesheet.
 
 ### Built with
 
